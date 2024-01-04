@@ -1,0 +1,80 @@
+img { 
+  border-radius: 130px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+body {
+  background: #2C3F52;
+  color: rgb(0, 0, 0);
+  font-family: 'Trebuchet MS';
+}
+
+a {
+  background-color: black;
+  color: #ffffff;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  width: 100%;
+  padding: 16px 0px;
+  margin-bottom: 16px;
+  border-radius: 40px;
+}
+
+.container {
+  width: 360px;
+  margin: 60px auto;
+  text-align: center;
+}
+
+body {
+   background: #2C3E50;
+   transition: background-color 2s ease;
+   color: rgb(0, 0, 0);
+   font-family: 'Trebuchet MS';
+}
+
+button {
+  position: absolute;
+  top: 30;
+  right: 30;
+}
+
+button {
+  background-color: #000000;
+  color: #fafafa;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.day-mode a {
+  background-color: #2C3E50;
+  color: #000000;
+}
+
+.day-mode {
+  background: white;
+  color: #2C3E50;
+}
+
+.picture1 {
+   position: absolute;
+   bottom: 110;
+   left: 170;
+}
+
+.picture2 {
+   position: absolute;
+   top: 400;
+   right: 180;
+}
